@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 JUN 2020 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  23 JUN 2020 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1310,7 +1310,7 @@ d.
  ) 
 Here is how much of TeX's memory you used:
  23568 strings out of 492616
- 426515 string characters out of 6129482
+ 426517 string characters out of 6129482
  516159 words of memory out of 5000000
  26845 multiletter control sequences out of 15000+600000
  78621 words of font info for 87 fonts, out of 8000000 for 9000
@@ -1338,7 +1338,7 @@ lic/lm/lmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy
 9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on simulation_summary_final.pdf (25 pages, 938908 bytes).
+Output written on simulation_summary_final.pdf (25 pages, 939633 bytes).
 PDF statistics:
  357 PDF objects out of 1000 (max. 8388607)
  278 compressed objects within 3 object streams

@@ -166,7 +166,7 @@ These values are consistent with the formulas presented above. This kind of chec
 
 # Simulation from Statistical Computing
 
-## Generate pseudorandom variable from the pdf
+## Generate pseudo-random variable from the pdf
 
 **1. Inverse transformation**
 
@@ -225,9 +225,9 @@ curve(gamma*alpha^gamma/{x^(gamma+1)},2,8,add = TRUE)
 
 ```
 
-## Generate pseudorandom variable from the pdf
+## Generate pseudo-random variable from the pdf
 
-**2. Inverse transformation**
+**2. Acceptance/Rejection Method**
 
 Target cdf $F(\cdot)$ or pdf $f(\cdot)\left(\text { no closed from of } F^{-1}\right)$
 Alternative cdf $G(\cdot)$ or pdf $g(x)$ (one that's easy to sample from), satisfying
