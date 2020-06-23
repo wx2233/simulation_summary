@@ -142,3 +142,12 @@ $$
 \theta=\int_0^1 e^{x^2} dx = \int_0^1 \frac{e^{x^2}}{1} *1 dx
 $$
 $g(x) = e^{x^2}$, $p(x)$ is U[0,1], $x_1,...,x_n \sim p(x)$. We just need to simulate random uniforms on [0,1] and compute $\frac{1}{n}\sum_{i=1}^{n} \frac{e^{x^2}}{1}$.
+
+
+```{r echo = TRUE}
+set.seed(111)
+N = 10000
+u = runif(N)
+y = sum(exp(u^2))/N
+```
+
