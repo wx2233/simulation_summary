@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2020.4.13)  16 JUN 2020 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2020.4.13)  23 JUN 2020 09:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1030,7 +1030,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (./Simulation_summary_Xinru.nav) [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 91.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1039,60 +1039,60 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 91.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 90.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 91.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 91.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 91.
+(Font)              <10> on input line 90.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 91.
+(Font)              <7> on input line 90.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 91.
-LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+(Font)              <5> on input line 90.
+LaTeX Font Info:    Try loading font information for U+msa on input line 90.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+LaTeX Font Info:    Try loading font information for U+msb on input line 90.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 90.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 90.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 91.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 90.
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 91.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 90.
 
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 91.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 90.
 
 [2
 
 ]
 
-LaTeX Warning: Command \textquoteright invalid in math mode on input line 116.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 115.
 
 <plot_xinru/plot3.png, id=34, 673.51625pt x 186.6975pt>
 File: plot_xinru/plot3.png Graphic file (type png)
 <use plot_xinru/plot3.png>
-Package pdftex.def Info: plot_xinru/plot3.png  used on input line 116.
+Package pdftex.def Info: plot_xinru/plot3.png  used on input line 115.
 (pdftex.def)             Requested size: 245.83282pt x 68.14543pt.
 [3
 
@@ -1106,18 +1106,18 @@ Package pdftex.def Info: plot_xinru/plot3.png  used on input line 116.
 \tf@snm=\write8
 \openout8 = `Simulation_summary_Xinru.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
 (./Simulation_summary_Xinru.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `Simulation_summary_Xinru.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  19033 strings out of 492649
- 358318 string characters out of 6129622
+ 358320 string characters out of 6129622
  458117 words of memory out of 5000000
  22452 multiletter control sequences out of 15000+600000
  42131 words of font info for 48 fonts, out of 8000000 for 9000
@@ -1136,7 +1136,7 @@ texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
 /lm/lmsy7.pfb>
-Output written on Simulation_summary_Xinru.pdf (3 pages, 310581 bytes).
+Output written on Simulation_summary_Xinru.pdf (3 pages, 310562 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
